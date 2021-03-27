@@ -20,10 +20,10 @@ Net ninja
 Angela yu
 MTechViral </p>
 
-</h3> Provider </h3>
+</h1> Provider </h1>
 <p><strong> Some of the concepts about provider, I learnt from different sources: </strong></p>
 <h5>Managing Flutter State using Provider</h5>
-<p><strong>What is State Management> </strong></p>
+<p><strong>What is State Management? </strong></p>
 <p>State is the data your application needs to display or do something with. Data which may change.
 For relatively simple scenarios, where the application consists of a single screen, we could use Flutter’s Stateful widgets and call setState()to rebuild the widget after we’ve modified some data or state. Remember, Flutter adopts a reactive model, rendering the user interface in response to state changes.
 But consider the following scenario — a home screen which displays the currently signed-in user. That’s a two-screen application at a minimum and the home screen must somehow react to the action outcomes on another screen i.e. someone has logged in.
